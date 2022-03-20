@@ -1,0 +1,12 @@
+dog
+cat
+chipmunk
+chicken
+pig
+cow
+duck
+fish
+wolf
+monkey
+ape
+elephant
