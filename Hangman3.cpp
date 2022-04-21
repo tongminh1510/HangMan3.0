@@ -7,12 +7,12 @@
 #include <string>
 #include <cstdlib>
 #include <cstring>
-//#include <SDL2/SDL.h>
 #include "RenderGame.hpp"
 #include "WelcomePlayer.hpp"
 #include "Hint.hpp"
 #include "Word.hpp"
-//#include "SDL.hpp"
+#include <SDL2/SDL.h>
+
 
 using namespace std;
 
